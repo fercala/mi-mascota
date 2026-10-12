@@ -1,0 +1,32 @@
+{
+ "name": "Mi Mascota",
+ "short_name": "Mi Mascota",
+ "description": "Cuida a tu mascota: dale de comer, báñala, juega y mírala crecer.",
+ "lang": "es",
+ "start_url": "./",
+ "scope": "./",
+ "display": "fullscreen",
+ "orientation": "landscape",
+ "background_color": "#ffe9d6",
+ "theme_color": "#ff8a5b",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
